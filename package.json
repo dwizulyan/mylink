@@ -1,0 +1,21 @@
+{
+  "name": "mylink",
+  "version": "1.0.0",
+  "description": "Link For My Dev Profile",
+  "main": "index.html",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Dwi Zulyan Hamid",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
